@@ -1,0 +1,11 @@
+{
+  "synthetic": true,
+  "as_of": "2026-11-24",
+  "max_age_days": 7,
+  "topics": ["Booking clarity", "Contact options", "Mobile navigation"],
+  "evidence": [
+    {"id": "SYN-01", "topic": "Booking clarity", "observed_on": "2026-11-23", "observation": "The fictional booking page does not show session length."},
+    {"id": "SYN-02", "topic": "Contact options", "observed_on": "2026-11-23", "observation": "The fictional contact page lists an email form but no phone option."},
+    {"id": "SYN-03", "topic": "Mobile navigation", "observed_on": "2026-11-22", "observation": "The fictional mobile menu puts Help under a second menu."}
+  ]
+}
